@@ -1,0 +1,8 @@
+recursive adalah sebuah fungsi yang memanggil diri nya sendiri
+kenapa butuh recursive
+- banyak problem yang lebih mudah diselesaikan dan kode yg lebih pendek dengan recursive
+- pendekatan recursive sama dengan loop (secara iterative / berulang-ulang)
+recursive strategi
+- base case: case yg paling simple(tdk menggunakan loop) 
+- recurrence relations: memanggil dirinya sendiri dengan memecah masalah menjadi kecil
+
