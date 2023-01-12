@@ -1,0 +1,18 @@
+API (Aplication Programing Interface)
+     kumpulan dari fungsi dan prosedur yg mengizinkan membuat aplikasi mengakses fitur / data dari OS, application etc
+
+APi worked
+            response
+            <----
+    client           server
+            --->
+            request
+
+REST (REpresentational State Transfer)
+    standarisasi untuk kominikasi antara sistem
+    HTTP Method:
+    - GET
+    - POST
+    - PUT
+    - DELETE
+

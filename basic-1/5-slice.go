@@ -1,5 +1,6 @@
 //Slice
 //mirip seperti array(element yg hanya bisa satu tipe data) tapi size dynamic
+//terdapat 3 data: pointer, length dan capacity
 
 //Array
 //array merupakan kumpalan dari element/data dengan tipe yang sama
